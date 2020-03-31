@@ -10,7 +10,7 @@ body,.section-title h2,.section-title p,.section-title .view-all,.contact-detail
 .section-title:after{ background: #666; }
 .m-b-5{ margin-bottom: 5px !important;}
 .m-b-50{ margin-bottom: 50px !important; }
-
+.f-w-b {font-weight:bolder !important;}
 /* header */
 header .brand {
     display: inline-block;
@@ -25,7 +25,7 @@ header .brand img {
 /* footer */
 footer .subfooter{
     padding: 5px 0;
-    background: #eb82b5;
+    background: #eda3c7;
     color: #fff;
 }
 footer .footer-widgets .footer-widget .inner{
@@ -118,7 +118,7 @@ footer .footer-widgets .footer-widget .footer-logo{
 .step_text {
     text-align: center;
     font-family: "微軟正黑體",Arail;
-    background: #eb82b5;
+    background: #eda3c7;
     color: #FFF;
     font-size: 16px;
     padding: 5px 10px 5px;
@@ -131,7 +131,7 @@ footer .footer-widgets .footer-widget .footer-logo{
 .step_trn {
     width: 15px;
     height: 18px;
-    background: #eb82b5;
+    background: #eda3c7;
     -webkit-clip-path: polygon(100% 50%, 0% 100%,0% 0%);
     margin: 245% 40% 0;
 }
@@ -280,7 +280,7 @@ footer .footer-widgets .footer-widget .footer-logo{
     .step_trn {
         width: 18px;
         height: 15px;
-        background: #eb82b5;
+        background: #eda3c7;
         -webkit-clip-path: polygon(100% 0%, 0% 0%,50% 100%);
         margin: 170% 960% 230%;
     }

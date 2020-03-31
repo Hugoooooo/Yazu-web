@@ -71,8 +71,8 @@ Version:       1.1.0
 
     COLOR SCHEME:
 
-    Main Color : #eb82b5
-    Main Color Hover/Focus : #eb82b5
+    Main Color : #eda3c7
+    Main Color Hover/Focus : #eda3c7
 
 =============================================================*/
 
@@ -1388,7 +1388,7 @@ textarea {
   visibility: hidden;
   height: 50px;
   width: 50px;
-  background: #eb82b5;
+  background: #eda3c7;
   border-radius: 4px;
   right: 60px;
   bottom: 20px;
@@ -1413,7 +1413,7 @@ textarea {
 }
 
 .back-to-top:hover, .back-to-top:focus {
-  background: #eb82b5;
+  background: #eda3c7;
   -webkit-box-shadow: 0 5px 10px 0 rgba(35, 50, 56, 0.1);
   box-shadow: 0 5px 10px 0 rgba(35, 50, 56, 0.1);
 }
@@ -1463,24 +1463,24 @@ textarea {
 }
 
 .tooltip-inner {
-  background: #eb82b5;
+  background: #eda3c7;
 }
 
 .tooltip.bs-tooltip-top .arrow:before {
-  border-top-color: #eb82b5;
+  border-top-color: #eda3c7;
   bottom: 1px;
 }
 
 .tooltip.bs-tooltip-right .arrow:before {
-  border-right-color: #eb82b5;
+  border-right-color: #eda3c7;
 }
 
 .tooltip.bs-tooltip-bottom .arrow:before {
-  border-bottom-color: #eb82b5;
+  border-bottom-color: #eda3c7;
 }
 
 .tooltip.bs-tooltip-left .arrow:before {
-  border-left-color: #eb82b5;
+  border-left-color: #eda3c7;
 }
 
 .pagination {
@@ -1554,7 +1554,7 @@ textarea {
 /* ===== 02.3 BUTTONS ===== */
 
 .btn {
-  background: #eb82b5;
+  background: #eda3c7;
   color: #fff;
   letter-spacing: 0.5px;
   font-size: 15px;
@@ -1568,7 +1568,7 @@ textarea {
 }
 
 .btn:hover, .btn:focus, .btn:active {
-  background: #eb82b5;
+  background: #eda3c7;
   cursor: pointer;
   color: #fff;
   outline: none !important;
@@ -1732,7 +1732,7 @@ textarea {
 =============================================*/
 
 .topbar {
-  background: #eb82b5;
+  background: #eda3c7;
   width: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2020,7 +2020,7 @@ header .brand .big-logo {
   margin-left: auto;
   margin-right: auto;
   clear: both;
-  background: #eb82b5;
+  background: #eda3c7;
   -webkit-transition: .4s;
   transition: .4s;
 }
@@ -2089,7 +2089,7 @@ header.horizontal-header .main-menu .menu .menu-item a, header.horizontal-header
 }
 
 header.horizontal-header .main-menu .menu .menu-item a:hover, header.horizontal .main-menu .menu .menu-item a:focus, header.horizontal-header .main-menu .menu .menu-item.open a, header.horizontal-header .main-menu .menu .menu-item.active a {
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 header.horizontal-header .main-menu .menu .menu-item:last-child a {
@@ -2413,7 +2413,7 @@ header.vertical-header .main-menu .menu .menu-item a {
 }
 
 header.vertical-header .main-menu .menu .menu-item a:hover, header.vertical-header .main-menu .menu .menu-item a:focus, header.vertical-header .main-menu .menu .menu-item.open a, header.vertical-header .main-menu .menu .menu-item.active a {
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 header.vertical-header .main-menu .menu .menu-item.menu-btn {
@@ -3006,13 +3006,13 @@ section.gray .brand-info .inner .content {
 
 .brand-info .inner .stars i {
   font-size: 18px;
-  color: #eb82b5;
+  color: #eda3c7;
   margin: 0 2px;
 }
 
 .brand-info .inner .title {
   margin-top: 10px;
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 /* ===== 05.3 SERVICES ===== */
@@ -3059,8 +3059,8 @@ section.gray .brand-info .inner .content {
   color: #fff;
   -webkit-transition: all 0.1s ease-out;
   transition: all 0.1s ease-out;
-  background: #eb82b5;
-  border-color: #eb82b5;
+  background: #eda3c7;
+  border-color: #eda3c7;
 }
 
 .services .owl-thumb-item:hover {
@@ -3102,7 +3102,7 @@ section.gray .brand-info .inner .content {
 }
 
 .services .owl-thumb-item .media-left {
-  color: #eb82b5;
+  color: #eda3c7;
   font-size: 2em;
   line-height: 2em;
   text-align: center;
@@ -4018,12 +4018,12 @@ footer .subfooter .social-media a i {
 }
 
 .daterangepicker td.start-date, .daterangepicker td.end-date, .daterangepicker td.available:hover {
-  background: #eb82b5 !important;
+  background: #eda3c7 !important;
   color: #fff;
 }
 
 .daterangepicker td.in-range {
-  background: #eb82b5;
+  background: #eda3c7;
   color: #fff;
 }
 
@@ -4374,8 +4374,8 @@ footer .subfooter .social-media a i {
 }
 
 .vertical-booking-form.dark {
-  background: #eb82b5;
-  border-color: #eb82b5;
+  background: #eda3c7;
+  border-color: #eda3c7;
 }
 
 .vertical-booking-form .form-title {
@@ -4442,7 +4442,7 @@ footer .subfooter .social-media a i {
   transform: translateY(-50%);
   width: 50px;
   height: 50px;
-  background: #eb82b5;
+  background: #eda3c7;
   border-radius: 50%;
   text-align: center;
   line-height: 50px;
@@ -4457,7 +4457,7 @@ footer .subfooter .social-media a i {
 }
 
 .booking-form-toggle:hover, .booking-form-toggle.open {
-  background: #eb82b5;
+  background: #eda3c7;
 }
 
 .popup-booking-form {
@@ -4828,7 +4828,7 @@ footer .subfooter .social-media a i {
   height: 50px;
   position: absolute;
   display: block;
-  border-top: 50px solid #eb82b5;
+  border-top: 50px solid #eda3c7;
   border-left: 50px solid transparent;
   top: 0;
   left: auto;
@@ -4907,7 +4907,7 @@ footer .subfooter .social-media a i {
 .room-list-item .room-price .price {
   margin-bottom: 30px;
   font-size: 20px;
-  color: #eb82b5;
+  color: #eda3c7;
   text-transform: uppercase;
 }
 
@@ -5132,7 +5132,7 @@ footer .subfooter .social-media a i {
   display: block;
   font-size: 20px;
   font-weight: 400;
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 .room-block-item .room-price .price small {
@@ -5194,7 +5194,7 @@ footer .subfooter .social-media a i {
   display: inline-block;
   float: right;
   margin-top: 32px;
-  color: #eb82b5;
+  color: #eda3c7;
   font-size: 30px;
 }
 
@@ -5237,7 +5237,7 @@ footer .subfooter .social-media a i {
 }
 
 .room-slider-full-width .room-price {
-  background: #eb82b5;
+  background: #eda3c7;
   border-radius: 50%;
   text-align: center;
 }
@@ -5281,7 +5281,7 @@ footer .subfooter .social-media a i {
 
 .room-reviews .rating-details .review-summary {
   text-align: center;
-  background-color: #eb82b5;
+  background-color: #eda3c7;
   color: #fff;
   text-transform: uppercase;
   padding: 20px 10px;
@@ -5321,7 +5321,7 @@ footer .subfooter .social-media a i {
 }
 
 .room-reviews .rating-details .progress-bar {
-  background-color: #eb82b5
+  background-color: #eda3c7
 }
 
 .room-reviews .review-box {
@@ -5586,7 +5586,7 @@ footer .subfooter .social-media a i {
 
 p.dropcap:first-letter {
   float: left;
-  color: #eb82b5;
+  color: #eda3c7;
   font-size: 6em;
   line-height: 1em;
   margin: 0px 20px 5px 0;
@@ -6019,7 +6019,7 @@ blockquote:after {
 .page-title .breadcrumb li:last-child {
   padding: 5px 5px;
   border-radius: 2px;
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 .page-title .breadcrumb li:last-child:after {
@@ -6257,7 +6257,7 @@ blockquote:after {
 }
 
 .gallery-filters .active, .gallery-filters .filter:hover {
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 .gallery-page .gallery-item {
@@ -6319,7 +6319,7 @@ section.restaurant .restaurant-menu-item {
 }
 
 .restaurant-menu-item .title span.price {
-  color: #eb82b5;
+  color: #eda3c7;
 }
 
 section.restaurant .restaurant-menu-item .title span.price {
@@ -6654,7 +6654,7 @@ section.restaurant .restaurant-menu-item .title span.price {
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  background: #eb82b5;
+  background: #eda3c7;
   border-radius: 100%;
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
@@ -6693,7 +6693,7 @@ section.restaurant .restaurant-menu-item .title span.price {
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: #eb82b5;
+  background: #eda3c7;
   opacity: 0;
   -webkit-animation: loader2 3.4s infinite ease-in-out;
   animation: loader2 3.4s infinite ease-in-out;
@@ -6786,7 +6786,7 @@ section.restaurant .restaurant-menu-item .title span.price {
   border-radius: 100%;
   border-width: 1px;
   border-style: solid;
-  border-color: #eb82b5 #efefef #efefef;
+  border-color: #eda3c7 #efefef #efefef;
   -webkit-animation: loader3 2s infinite linear;
   animation: loader3 2s infinite linear;
   left: 0;
@@ -6796,7 +6796,7 @@ section.restaurant .restaurant-menu-item .title span.price {
 }
 
 .dark.loader3 .spin span {
-  border-color: #eb82b5 #333 #333;
+  border-color: #eda3c7 #333 #333;
 }
 
 .loader3 .spin img {
@@ -7168,8 +7168,8 @@ section .staff-item {
 }
 
 .nav-tabs .nav-link.active, .nav-tabs .nav-link:hover, .nav-tabs .nav-link.active:hover, .nav-tabs .nav-link.active:focus {
-  background: #eb82b5;
-  border-color: #eb82b5;
+  background: #eda3c7;
+  border-color: #eda3c7;
   color: #fff;
 }
 
