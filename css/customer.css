@@ -15,10 +15,12 @@ body,.section-title h2,.section-title p,.section-title .view-all,.contact-detail
 header .brand {
     display: inline-block;
     padding: 0;
-    width: 18vw;i
-    line-height: 82px;
+    width: 12vw;
+    line-height: 84px;
 }
-header .brand img{ width: 50% }
+header .brand img {
+    width: 100%;
+}
 
 /* footer */
 footer .subfooter{
@@ -43,6 +45,14 @@ footer .footer-widgets .footer-widget .footer-logo{
 }
 
 /* index page*/
+.section-title h4 {
+    color: #6c757d;
+    font-size: 68px;
+    font-family: 'Oswald','微軟正黑體', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
 .page-title{
     text-align: center;
 }
@@ -63,7 +73,7 @@ footer .footer-widgets .footer-widget .footer-logo{
     background: rgba(0,0,0,0.4);
     -webkit-transition: .4s;
     transition: .4s;
-    opacity: 1;
+    opacity: 0;
 }
 
 .gradient2-overlay:after, .gradient2-overlay-hover:after, .gradient2-slider .slotholder:after {
@@ -191,12 +201,12 @@ footer .footer-widgets .footer-widget .footer-logo{
     max-height: 250px;
     display: block;
     margin: 0 auto 40px;
-    background: url('../images/customer/contact.jpg') center center;
+    background: url('../images/customer/contact-1.jpg') center center;
     background-size: cover;
     -webkit-box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 40px 0px rgba(0, 0, 0, 0.1);
     border-radius: 50%;
-    border: 10px solid #e3e3e3;
+    border: 10px solid #ffdede;
 }
 
 /* about */

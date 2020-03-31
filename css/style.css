@@ -72,7 +72,7 @@ Version:       1.1.0
     COLOR SCHEME:
 
     Main Color : #eb82b5
-    Main Color Hover/Focus : #365090
+    Main Color Hover/Focus : #eb82b5
 
 =============================================================*/
 
@@ -1413,7 +1413,7 @@ textarea {
 }
 
 .back-to-top:hover, .back-to-top:focus {
-  background: #365090;
+  background: #eb82b5;
   -webkit-box-shadow: 0 5px 10px 0 rgba(35, 50, 56, 0.1);
   box-shadow: 0 5px 10px 0 rgba(35, 50, 56, 0.1);
 }
@@ -1568,7 +1568,7 @@ textarea {
 }
 
 .btn:hover, .btn:focus, .btn:active {
-  background: #365090;
+  background: #eb82b5;
   cursor: pointer;
   color: #fff;
   outline: none !important;
@@ -2089,7 +2089,7 @@ header.horizontal-header .main-menu .menu .menu-item a, header.horizontal-header
 }
 
 header.horizontal-header .main-menu .menu .menu-item a:hover, header.horizontal .main-menu .menu .menu-item a:focus, header.horizontal-header .main-menu .menu .menu-item.open a, header.horizontal-header .main-menu .menu .menu-item.active a {
-  color: #365090;
+  color: #eb82b5;
 }
 
 header.horizontal-header .main-menu .menu .menu-item:last-child a {
@@ -2413,7 +2413,7 @@ header.vertical-header .main-menu .menu .menu-item a {
 }
 
 header.vertical-header .main-menu .menu .menu-item a:hover, header.vertical-header .main-menu .menu .menu-item a:focus, header.vertical-header .main-menu .menu .menu-item.open a, header.vertical-header .main-menu .menu .menu-item.active a {
-  color: #365090;
+  color: #eb82b5;
 }
 
 header.vertical-header .main-menu .menu .menu-item.menu-btn {
@@ -4018,7 +4018,7 @@ footer .subfooter .social-media a i {
 }
 
 .daterangepicker td.start-date, .daterangepicker td.end-date, .daterangepicker td.available:hover {
-  background: #365090 !important;
+  background: #eb82b5 !important;
   color: #fff;
 }
 
@@ -4457,7 +4457,7 @@ footer .subfooter .social-media a i {
 }
 
 .booking-form-toggle:hover, .booking-form-toggle.open {
-  background: #365090;
+  background: #eb82b5;
 }
 
 .popup-booking-form {
@@ -6257,7 +6257,7 @@ blockquote:after {
 }
 
 .gallery-filters .active, .gallery-filters .filter:hover {
-  color: #365090;
+  color: #eb82b5;
 }
 
 .gallery-page .gallery-item {
