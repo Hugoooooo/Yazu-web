@@ -328,3 +328,20 @@ footer .footer-widgets .footer-widget .footer-logo{
     background-repeat: no-repeat;
     background-position: center center;    
 }
+header.horizontal-header .main-menu .menu .menu-item a.fb-icon{
+    width: 26px;
+    padding-left: 0;
+    padding-right: 0;
+    line-height: 0;
+    margin: 0 20px;
+}
+.fb-icon img{
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+@media screen and (max-width: 768px){
+    .fb-icon img{
+        width: 35px;
+    }
+}
