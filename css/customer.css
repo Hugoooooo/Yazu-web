@@ -323,7 +323,7 @@ footer .footer-widgets .footer-widget .footer-logo{
 /* Gallery */
 .p-item {
     padding-top: 100%;
-    background-color: #fed1d9;
+    /* background-color: #fed1d9; */
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;    
